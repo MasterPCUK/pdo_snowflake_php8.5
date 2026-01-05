@@ -1,5 +1,5 @@
 ********************************************************************************
-PHP PDO driver for Snowflake
+Fork of "PHP PDO driver for Snowflake" with added PHP8.5 support.
 ********************************************************************************
 
 .. image:: https://codecov.io/gh/snowflakedb/pdo_snowflake/branch/master/graph/badge.svg
